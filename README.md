@@ -1,2 +1,2 @@
 # SummarAI
-Sumarrizing, querying and analyzine, pdfs and csvs
+Sumarrizing, querying and analyzine, pdfs and csvs using Generative AI
